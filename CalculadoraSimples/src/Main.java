@@ -33,7 +33,11 @@ public class Main {
 			System.out.println(Math.pow(value1, value2));
 			break;
 		}
+		
+		input.close();
 	}
+	
+	
 	
 
 }
